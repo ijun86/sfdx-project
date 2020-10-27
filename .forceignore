@@ -3,6 +3,7 @@
 #
 
 package.xml
+# .forceignore v2
 **profile
 # LWC configuration files
 **/jsconfig.json
